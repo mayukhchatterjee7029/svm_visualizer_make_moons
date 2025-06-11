@@ -106,3 +106,6 @@ SVM Visualizer/
 - The visualization requires matplotlib backend support
 - Dataset coordinates are set to `[-1.5, 2.45, -1, 1.5]` for consistent comparison
 - Models must be trained before running the visualization code
+
+---
+⭐ If you found this project helpful, please consider giving it a star!
